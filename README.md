@@ -27,8 +27,7 @@ Thumbnail:
 
 ## Project Description
 
-Write a description of the goal and/or problem that your application. Include descriptions of what text is being analyzed, either if its text files you are using to interpret text an how the user interacts with your project.
-
+If there is a situation where you really want to tell your friend who only speaks Spanish the name of a song you love, use our Song Title Translator! Song Title Translator gets the user input (title of any song in English) and translates it into Spanish and returns it. For example, if the user input was "love", our app analyzes that input, searches through the Original list, and finds the word in the translation word list at the same index, and returns it, so "love" would return as "amor". 
 ## NLP Techniques
 
 Write a description of what natural lanugage technique (NLP) you implemented in your project. State which methods in your project are associated with this, and a brief explanation of how those methods work and how they are necessary in the NLP technique. 
