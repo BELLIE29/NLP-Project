@@ -31,3 +31,4 @@ If there is a situation where you really want to tell your friend who only speak
 ## NLP Techniques
 
 Write a description of what natural lanugage technique (NLP) you implemented in your project. State which methods in your project are associated with this, and a brief explanation of how those methods work and how they are necessary in the NLP technique. 
+We implemented machiene translations as our natural language processing technique in our project.
